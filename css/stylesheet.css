@@ -1,0 +1,58 @@
+header {
+  text-align: center;
+  font-size: 40px;
+  user-select: none;
+}
+
+body > h1 {
+  text-align: center;
+  user-select: none;
+}
+
+.container {
+  text-align: center; 
+}
+
+.selecter {
+  display: block;
+  margin: 10px auto;
+  user-select: none;
+}
+
+.radio {
+  width: 250px;
+  margin: 15px auto;
+}
+
+#button {
+  padding: 15px 30px;
+  margin: 20px auto;
+  font-size: large;
+}
+
+#button:hover {
+  cursor: pointer;
+}
+
+.result h2 {
+  font-size: 35px;
+  text-align: center;
+  user-select: none;
+}
+
+.result ul {
+  list-style: none;
+}
+
+li {
+  text-align: center;
+  font-size: 15px;
+}
+
+footer {
+  width: auto;
+  height: 300px;
+  text-align: center;
+  line-height: 300px;
+  user-select: none;
+}
